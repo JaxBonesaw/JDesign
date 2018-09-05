@@ -4,3 +4,9 @@ padding:0;
 margin:0;
 background-color:#f4f4f4;
 }
+/*global*/
+.container{
+  width:80%
+  margin:auto;
+  overflow:hidden;
+}
